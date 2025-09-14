@@ -14,13 +14,13 @@
       "apparaat": "200 kN - RUPS",
       "datum_gw_meting": 1274179500000,
       "diepte_gw_m": 3.75,
-      "lengte": 15.0,
-      "diepte": 14.96,
-      "qc": 17.81,
+      "lengte": 12.1,
+      "diepte": 12.09,
+      "qc": 11.75,
       "Qt": null,
-      "fs": null,
+      "fs": 232.0,
       "u": null,
-      "i": 13.1
+      "i": 3.9
   },
   {
       "pkey_sondering": "https:\/\/www.dov.vlaanderen.be\/data\/sondering\/2010-062054",
@@ -37,12 +37,12 @@
       "apparaat": "200 kN - RUPS",
       "datum_gw_meting": 1274179500000,
       "diepte_gw_m": 3.75,
-      "lengte": 15.05,
-      "diepte": 15.01,
-      "qc": 52.88,
+      "lengte": 12.15,
+      "diepte": 12.14,
+      "qc": 39.77,
       "Qt": null,
-      "fs": null,
+      "fs": 160.0,
       "u": null,
-      "i": 13.4
+      "i": 3.9
   }
 ]
