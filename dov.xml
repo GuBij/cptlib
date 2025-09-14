@@ -1,0 +1,2449 @@
+<wfs:FeatureCollection xmlns="http://www.opengis.net/wfs" xmlns:wfs="http://www.opengis.net/wfs" xmlns:dov-pub="http://dov.vlaanderen.be/ocdov/dov-pub" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wfs https://www.dov.vlaanderen.be/geoserver/schemas/wfs/1.0.0/WFS-basic.xsd http://dov.vlaanderen.be/ocdov/dov-pub https://www.dov.vlaanderen.be/geoserver/wfs?service=WFS&version=1.0.0&request=DescribeFeatureType&typeName=dov-pub%3ASonderingen">
+<gml:boundedBy>
+<gml:null>unknown</gml:null>
+</gml:boundedBy>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.4541">
+<dov-pub:id>14114</dov-pub:id>
+<dov-pub:sondeernummer>GEO-75/516-S1</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1975-014099</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1975-014099/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1975-014099/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110845.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173248.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.70</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>13.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1975-11-19</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-75/516</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T17:50:39+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110845,173248</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.4542">
+<dov-pub:id>14115</dov-pub:id>
+<dov-pub:sondeernummer>GEO-75/516-S2</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1975-014100</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1975-014100/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1975-014100/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110870.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173253.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.70</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1975-11-24</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-75/516</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T17:50:39+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110870,173253</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.4543">
+<dov-pub:id>14116</dov-pub:id>
+<dov-pub:sondeernummer>GEO-75/516-S3</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1975-014101</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1975-014101/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1975-014101/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110876.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173262.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.70</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.70</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1975-11-24</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-75/516</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T17:50:40+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110876,173262</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.7637">
+<dov-pub:id>16901</dov-pub:id>
+<dov-pub:sondeernummer>GEO-79/340-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1979-016746</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1979-016746/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1979-016746/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110982.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>174051.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>52.01</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>28.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1979-10-22</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-79/340</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:10:38+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110982,174051</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.7638">
+<dov-pub:id>16902</dov-pub:id>
+<dov-pub:sondeernummer>GEO-79/340-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1979-016747</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1979-016747/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1979-016747/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110942.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>174066.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>53.37</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>34.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1979-10-19</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-79/340</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:10:38+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110942,174066</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.7639">
+<dov-pub:id>16903</dov-pub:id>
+<dov-pub:sondeernummer>GEO-79/340-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1979-016748</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1979-016748/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1979-016748/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110949.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>174031.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>53.22</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>33.80</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1979-10-18</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-79/340</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:10:39+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110949,174031</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.7640">
+<dov-pub:id>16904</dov-pub:id>
+<dov-pub:sondeernummer>GEO-79/340-SIV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1979-016749</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1979-016749/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1979-016749/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110980.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>174082.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>53.00</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>34.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1979-10-22</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-79/340</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:10:39+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110980,174082</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.12220">
+<dov-pub:id>21023</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/425-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1980-021001</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1980-021001/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1980-021001/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110953.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172892.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>71.07</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>22.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1980-11-20</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/425</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:39:58+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110953,172892</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.12233">
+<dov-pub:id>21035</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/425-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1980-021013</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1980-021013/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1980-021013/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110908.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172896.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>70.96</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>23.50</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1980-11-20</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/425</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:40:04+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110908,172896</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.14967">
+<dov-pub:id>23494</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/514-SV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-023339</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023339/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023339/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111132.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173303.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.50</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>15.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-01-14</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/514</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:57:41+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111132,173303</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.14982">
+<dov-pub:id>23507</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/514-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-023352</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023352/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023352/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111095.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173330.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.00</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-01-09</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/514</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:57:46+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111095,173330</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.14995">
+<dov-pub:id>23519</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/514-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-023364</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023364/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023364/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111133.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173326.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.10</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>15.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-01-08</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/514</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:57:51+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111133,173326</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.15010">
+<dov-pub:id>23532</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/514-SIV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-023377</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023377/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023377/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111143.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173347.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>62.80</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>17.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-01-08</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/514</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:57:56+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111143,173347</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.15023">
+<dov-pub:id>23544</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/514-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-023448</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023448/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023448/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111097.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173346.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>62.70</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>18.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-01-09</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/514</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:58:01+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111097,173346</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.15036">
+<dov-pub:id>23556</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/514-SVI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-023460</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023460/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023460/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111117.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173285.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>64.00</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>17.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-01-14</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/514</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:58:06+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111117,173285</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.15049">
+<dov-pub:id>23568</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/514-SVII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-023472</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023472/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023472/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111090.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173289.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.00</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-01-12</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/514</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:58:11+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111090,173289</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.15063">
+<dov-pub:id>23580</dov-pub:id>
+<dov-pub:sondeernummer>GEO-80/514-SVIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-023484</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023484/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-023484/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111088.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173271.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.10</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>17.55</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-01-12</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-80/514</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T18:58:16+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111088,173271</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.19184">
+<dov-pub:id>27292</dov-pub:id>
+<dov-pub:sondeernummer>GEO-70/210-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1970-026884</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1970-026884/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1970-026884/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110982.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173362.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.93</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>16.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1970-08-05</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-70/210</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T19:25:03+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110982,173362</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.20496">
+<dov-pub:id>28474</dov-pub:id>
+<dov-pub:sondeernummer>GEO-70/210-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1970-028420</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1970-028420/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1970-028420/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110976.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173304.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>64.00</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>17.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1970-08-03</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-70/210</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T19:33:13+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110976,173304</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.27979">
+<dov-pub:id>35209</dov-pub:id>
+<dov-pub:sondeernummer>GEO-66/015-S1</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1966-035191</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1966-035191/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1966-035191/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111057.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173689.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>56.90</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>5.80</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1966-01-12</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-66/015</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T20:31:30+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111057,173689</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.27981">
+<dov-pub:id>35210</dov-pub:id>
+<dov-pub:sondeernummer>GEO-66/015-S2</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1966-035192</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1966-035192/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1966-035192/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111051.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173663.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>57.00</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>7.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1966-01-12</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-66/015</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T20:31:30+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111051,173663</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.32156">
+<dov-pub:id>38966</dov-pub:id>
+<dov-pub:sondeernummer>GEO-68/206-S2</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1968-038656</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1968-038656/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1968-038656/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110429.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172801.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>54.70</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>4.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1968-05-17</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-68/206</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T20:59:05+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110429,172801</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.42726">
+<dov-pub:id>48483</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/3152-S1</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-048475</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-048475/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-048475/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111307.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173064.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>67.00</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-10-30</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/3152</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:18:27+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111307,173064</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.42727">
+<dov-pub:id>48484</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/3152-S2</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-048476</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-048476/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-048476/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111324.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173060.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>66.60</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.70</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-10-31</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/3152</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:18:27+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111324,173060</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.42730">
+<dov-pub:id>48487</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/3152-S3</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-048479</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-048479/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-048479/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111126.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172841.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>72.00</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.50</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-10-31</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/3152</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:18:28+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111126,172841</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.42731">
+<dov-pub:id>48488</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/3152-S4</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-048480</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-048480/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-048480/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111110.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172829.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>72.70</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>13.50</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-11-02</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/3152</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:18:28+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111110,172829</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.45728">
+<dov-pub:id>51187</dov-pub:id>
+<dov-pub:sondeernummer>GEO-48/663-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1948-051110</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051110/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051110/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110702.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172876.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.90</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1948-06-11</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-48/663</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:38:07+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110702,172876</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.45730">
+<dov-pub:id>51189</dov-pub:id>
+<dov-pub:sondeernummer>GEO-48/663-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1948-051112</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051112/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051112/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110715.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172842.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.20</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1948-06-15</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-48/663</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:38:08+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110715,172842</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.45732">
+<dov-pub:id>51190</dov-pub:id>
+<dov-pub:sondeernummer>GEO-48/663-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1948-051113</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051113/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051113/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110594.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172843.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>59.10</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>11.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1948-06-17</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-48/663</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:38:09+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110594,172843</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.45733">
+<dov-pub:id>51191</dov-pub:id>
+<dov-pub:sondeernummer>GEO-48/663-SIV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1948-051114</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051114/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051114/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110505.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172782.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>57.10</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>8.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1948-06-22</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-48/663</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:38:09+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110505,172782</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.45734">
+<dov-pub:id>51192</dov-pub:id>
+<dov-pub:sondeernummer>GEO-48/663-SV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1948-051115</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051115/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051115/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110585.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172697.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>59.60</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1948-06-24</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-48/663</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:38:09+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110585,172697</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.45735">
+<dov-pub:id>51193</dov-pub:id>
+<dov-pub:sondeernummer>GEO-48/663-SVI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1948-051116</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051116/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1948-051116/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110655.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172765.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>62.60</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1948-06-28</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-48/663</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:38:10+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110655,172765</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.48679">
+<dov-pub:id>53843</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/2839-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-053594</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053594/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053594/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111573.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173348.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.70</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-03-14</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/2839</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:58:31+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111573,173348</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.48680">
+<dov-pub:id>53844</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/2839-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-053595</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053595/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053595/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111530.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173444.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.00</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-03-15</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/2839</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:58:32+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111530,173444</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.48684">
+<dov-pub:id>53848</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/2839-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-053775</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053775/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053775/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111533.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173500.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>60.70</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>11.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-03-17</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/2839</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:58:33+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111533,173500</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.48685">
+<dov-pub:id>53849</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/2831-S1</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-053776</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053776/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053776/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111224.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173090.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>67.20</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>12.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-02-20</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/2831</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:58:34+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111224,173090</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.48687">
+<dov-pub:id>53850</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/2831-S2</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-053777</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053777/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053777/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111215.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173073.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>67.50</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>13.30</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-02-20</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/2831</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:58:34+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111215,173073</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.48688">
+<dov-pub:id>53851</dov-pub:id>
+<dov-pub:sondeernummer>GEO-61/2831-S3</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1961-053778</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053778/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1961-053778/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111226.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173072.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>67.60</dov-pub:Z_mTAW>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>13.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1961-02-21</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-61/2831</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T22:58:35+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111226,173072</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.49472">
+<dov-pub:id>54556</dov-pub:id>
+<dov-pub:sondeernummer>GEO-81/364-SIX</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-054466</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054466/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054466/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111102.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173329.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>63.60</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>41.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-11-23</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-81/364</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:03:29+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111102,173329</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.49483">
+<dov-pub:id>54566</dov-pub:id>
+<dov-pub:sondeernummer>GEO-81/364-SX</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-054476</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054476/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054476/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111131.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173303.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>64.10</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>19.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-11-23</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-81/364</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:03:33+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111131,173303</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.50064">
+<dov-pub:id>55090</dov-pub:id>
+<dov-pub:sondeernummer>GEO-81/391-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-054965</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054965/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054965/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111070.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173202.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.01</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.80</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-12-02</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-81/391</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:06:31+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111070,173202</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.50076">
+<dov-pub:id>55100</dov-pub:id>
+<dov-pub:sondeernummer>GEO-81/391-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-054975</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054975/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054975/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111086.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173202.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.09</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-12-02</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-81/391</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:06:35+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111086,173202</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.50084">
+<dov-pub:id>55108</dov-pub:id>
+<dov-pub:sondeernummer>GEO-81/391-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-054984</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054984/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054984/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111074.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173185.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.25</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-12-03</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-81/391</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:06:38+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111074,173185</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.50090">
+<dov-pub:id>55113</dov-pub:id>
+<dov-pub:sondeernummer>GEO-81/391-SIV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-054989</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054989/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054989/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111073.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173166.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.66</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-12-03</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-81/391</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:06:40+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111073,173166</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.50094">
+<dov-pub:id>55117</dov-pub:id>
+<dov-pub:sondeernummer>GEO-81/391-SV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-054808</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054808/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-054808/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111080.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173143.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>66.08</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>15.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-12-07</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-81/391</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:06:41+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111080,173143</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.50102">
+<dov-pub:id>55124</dov-pub:id>
+<dov-pub:sondeernummer>GEO-81/391-SVI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1981-055044</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-055044/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1981-055044/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111062.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173143.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.85</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>15.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1981-12-04</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-81/391</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:06:43+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111062,173143</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.55536">
+<dov-pub:id>60010</dov-pub:id>
+<dov-pub:sondeernummer>GEO-82/323-SVII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1982-059972</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1982-059972/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1982-059972/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111107.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173191.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.51</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.80</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1982-10-11</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-82/323</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:48:20+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111107,173191</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.55537">
+<dov-pub:id>60011</dov-pub:id>
+<dov-pub:sondeernummer>GEO-82/323-SVIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1982-059973</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1982-059973/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1982-059973/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111074.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173181.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>65.16</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>17.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1982-10-11</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-82/323</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T23:48:21+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111074,173181</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.58683">
+<dov-pub:id>62845</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/191-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-062734</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-062734/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-062734/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108714.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172459.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>46.30</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>36.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-07-04</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/191</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:13:42+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108714,172459</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.58684">
+<dov-pub:id>62846</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/191-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-062735</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-062735/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-062735/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108728.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172458.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>46.30</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>37.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-07-04</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/191</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:13:43+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108728,172458</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.58685">
+<dov-pub:id>62847</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/191-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-062736</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-062736/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-062736/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108715.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172424.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>47.30</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>44.80</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-06-10</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/191</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:13:43+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108715,172424</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.58686">
+<dov-pub:id>62848</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/191-SIV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-062737</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-062737/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-062737/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108705.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172425.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>47.40</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>38.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-06-09</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/191</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:13:44+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108705,172425</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59033">
+<dov-pub:id>63161</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/235-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063070</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063070/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063070/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110165.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>171873.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>62.85</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>43.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-07-14</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/235</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:16:37+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110165,171873</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59046">
+<dov-pub:id>63173</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/235-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063082</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063082/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063082/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110155.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>171872.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>62.50</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>43.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-07-14</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/235</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:16:41+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110155,171872</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59047">
+<dov-pub:id>63174</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/235-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063083</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063083/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063083/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110150.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>171908.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>61.34</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>40.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-07-15</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/235</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:16:41+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110150,171908</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59048">
+<dov-pub:id>63175</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/235-SIV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063084</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063084/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063084/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110140.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>171907.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>61.30</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>41.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-07-15</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/235</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:16:42+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110140,171907</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59242">
+<dov-pub:id>63350</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/251-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063004</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063004/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063004/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110924.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173406.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>59.90</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-11-10</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/251</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:18:55+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110924,173406</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59243">
+<dov-pub:id>63351</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/251-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063005</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063005/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063005/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110929.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173385.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>59.80</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>14.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-11-09</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/251</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:18:55+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110929,173385</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59294">
+<dov-pub:id>63398</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/262-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063291</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063291/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063291/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111674.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173504.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>57.30</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>9.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-10-14</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/262</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:19:49+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111674,173504</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59299">
+<dov-pub:id>63401</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/262-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063294</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063294/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063294/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111668.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173521.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>56.80</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>9.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-10-14</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/262</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:19:52+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111668,173521</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59300">
+<dov-pub:id>63402</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/262-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063295</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063295/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063295/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111641.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173500.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>56.20</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>8.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-10-13</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/262</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:19:52+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111641,173500</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59301">
+<dov-pub:id>63403</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/262-SIV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063296</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063296/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063296/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111603.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173491.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>57.30</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>16.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-10-07</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/262</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:19:53+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111603,173491</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59312">
+<dov-pub:id>63413</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/262-SV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063115</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063115/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063115/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>111627.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173435.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>60.00</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>33.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-10-06</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/262</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:20:06+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">111627,173435</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59855">
+<dov-pub:id>63901</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/360-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063779</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063779/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063779/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110712.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173024.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>58.12</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>16.80</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-12-02</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/360</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:24:26+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110712,173024</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59867">
+<dov-pub:id>63912</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/360-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063790</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063790/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063790/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110668.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172995.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>57.15</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>13.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-11-25</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/360</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:24:30+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110668,172995</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.59878">
+<dov-pub:id>63922</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/360-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063800</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063800/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063800/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110684.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172968.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>57.58</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>13.90</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-11-25</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/360</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:24:34+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110684,172968</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.60023">
+<dov-pub:id>64052</dov-pub:id>
+<dov-pub:sondeernummer>GEO-83/379-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1983-063952</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063952/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1983-063952/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110767.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173346.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>60.00</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>20.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1983-12-14</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-83/379</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-30T00:26:20+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110767,173346</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62320">
+<dov-pub:id>6612</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S10</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006519</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006519/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006519/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108164.2</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172883.1</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>29.10</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>22.80</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-04</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:43+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108164.2,172883.1</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62331">
+<dov-pub:id>6613</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S2</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006520</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006520/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006520/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108167.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172984.6</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>40.27</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>20.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-02</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:44+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108167,172984.6</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62342">
+<dov-pub:id>6614</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S3</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006521</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006521/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006521/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108148.3</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172975.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>39.81</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>22.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-01</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:44+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108148.3,172975</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62364">
+<dov-pub:id>6616</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S4</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006523</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006523/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006523/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108126.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172961.3</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>39.07</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>24.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-01</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:45+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108126,172961.3</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62375">
+<dov-pub:id>6617</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S5</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006524</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006524/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006524/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108096.7</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172941.7</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>38.89</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>23.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-02-26</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:45+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108096.7,172941.7</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62386">
+<dov-pub:id>6618</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S6</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006554</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006554/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006554/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108107.3</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172992.6</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>42.80</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>22.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-03</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:46+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108107.3,172992.6</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62409">
+<dov-pub:id>6620</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S7</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006556</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006556/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006556/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108116.4</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172977.3</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>41.29</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>21.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-03</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:47+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108116.4,172977.3</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62420">
+<dov-pub:id>6621</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S8</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006557</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006557/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006557/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108137.9</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172941.4</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>36.61</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>22.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-05</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:47+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108137.9,172941.4</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62431">
+<dov-pub:id>6622</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S9</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006558</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006558/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006558/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108145.2</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172925.7</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>33.61</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>22.00</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-04</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:48+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108145.2,172925.7</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.62442">
+<dov-pub:id>6623</dov-pub:id>
+<dov-pub:sondeernummer>GEO-99/009-S1</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1999-006559</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006559/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1999-006559/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>108189.8</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172986.6</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>40.52</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>22.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1999-03-02</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>MVG - Afdeling Geotechniek</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-99/009</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T16:51:48+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">108189.8,172986.6</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.68033">
+<dov-pub:id>71263</dov-pub:id>
+<dov-pub:sondeernummer>GEO-67/171-S1</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1967-071168</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1967-071168/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1967-071168/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110642.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>172799.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>62.50</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>5.90</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1967-05-08</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>25 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>false</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-67/171</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-02-01T10:11:04+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110642,172799</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.87389">
+<dov-pub:id>9888</dov-pub:id>
+<dov-pub:sondeernummer>GEO-85/019-SII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1985-009795</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1985-009795/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1985-009795/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110610.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173759.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>51.96</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>27.60</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1985-02-05</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-85/019</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T17:19:33+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110610,173759</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.87415">
+<dov-pub:id>9910</dov-pub:id>
+<dov-pub:sondeernummer>GEO-85/019-SI</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1985-009817</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1985-009817/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1985-009817/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110599.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173784.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>51.60</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>27.40</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1985-02-05</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-85/019</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T17:19:40+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110599,173784</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.87427">
+<dov-pub:id>9921</dov-pub:id>
+<dov-pub:sondeernummer>GEO-85/019-SIII</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1985-009828</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1985-009828/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1985-009828/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110590.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173729.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>53.58</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>26.20</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1985-02-06</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>200 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-85/019</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T17:19:47+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110590,173729</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+<gml:featureMember>
+<dov-pub:Sonderingen fid="Sonderingen.87439">
+<dov-pub:id>9932</dov-pub:id>
+<dov-pub:sondeernummer>GEO-85/019-SIV</dov-pub:sondeernummer>
+<dov-pub:fiche>https://www.dov.vlaanderen.be/data/sondering/1985-009839</dov-pub:fiche>
+<dov-pub:weerstandsdiagram>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1985-009839/rapport/identifygrafiek</dov-pub:weerstandsdiagram>
+<dov-pub:meetreeks>https://www.dov.vlaanderen.be/zoeken-ocdov/proxy-sondering/sondering/1985-009839/rapport/weerstandsmetingen?outputformaat=HTML</dov-pub:meetreeks>
+<dov-pub:X_mL72>110574.0</dov-pub:X_mL72>
+<dov-pub:Y_mL72>173744.0</dov-pub:Y_mL72>
+<dov-pub:Z_mTAW>53.62</dov-pub:Z_mTAW>
+<dov-pub:gemeente>Zottegem</dov-pub:gemeente>
+<dov-pub:diepte_van_m>0</dov-pub:diepte_van_m>
+<dov-pub:diepte_tot_m>28.80</dov-pub:diepte_tot_m>
+<dov-pub:datum_aanvang>1985-02-27</dov-pub:datum_aanvang>
+<dov-pub:uitvoerder>Rijksinstituut voor Grondmechanica</dov-pub:uitvoerder>
+<dov-pub:conus>M4</dov-pub:conus>
+<dov-pub:sondeermethode>discontinu mechanisch</dov-pub:sondeermethode>
+<dov-pub:apparaat_type>100 kN</dov-pub:apparaat_type>
+<dov-pub:informele_stratigrafie>false</dov-pub:informele_stratigrafie>
+<dov-pub:formele_stratigrafie>true</dov-pub:formele_stratigrafie>
+<dov-pub:hydrogeologische_stratigrafie>false</dov-pub:hydrogeologische_stratigrafie>
+<dov-pub:opdrachten>GEO-85/019</dov-pub:opdrachten>
+<dov-pub:eerste_invoer>2016-01-29T17:19:52+01:00</dov-pub:eerste_invoer>
+<dov-pub:geom>
+<gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#31370">
+<gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">110574,173744</gml:coordinates>
+</gml:Point>
+</dov-pub:geom>
+</dov-pub:Sonderingen>
+</gml:featureMember>
+</wfs:FeatureCollection>
