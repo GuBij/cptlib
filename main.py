@@ -41,7 +41,7 @@ if __name__ == '__main__':
     
   print_info(probe_info, True)
   
-  print("\nBONUS TASK: identify the thickest clay layer")
+  print("\nTASK 1a: identify the thickest clay layer")
   del probe_info
   probe_info: dict[str, list[Union[str, int, float]]] = defaultdict(list)
   
@@ -80,7 +80,7 @@ if __name__ == '__main__':
     zones.visualize(graph)
     #graph.save()
 
-  print("\nTASK 3\n")
+  print("\nTASK 3\n") # find all the probes in the DOV laying within the given polygon below
   probe_locations = ProbeLocationList((107600,171600),(112100,174200))
 
   polygon: str = "POLYGON ((107700 173367, 110551 173406, 111345 174141,"\
